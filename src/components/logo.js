@@ -10,7 +10,7 @@ class Logo extends Component {
         return (
             <div className="logo-main">
                 <Link to="/">
-                    <img style={size} alt="daily smarty ui image logo big" src="/assets/ds_circle_logo.png"/>
+                    <img style={size} alt="daily smarty ui image logo big" src="/assets/daily-smarty-logo.png"/>
                 </Link>
             </div>
         )
